@@ -1,4 +1,4 @@
-# Система управления ПТФ и шторкой дальнего света v22.1
+# Система управления ДХО - ПТФ и шторкой дальнего света v22.1
 
 [![Arduino](https://img.shields.io/badge/Arduino-ATmega328P-blue)](https://www.arduino.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
